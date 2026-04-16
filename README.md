@@ -15,12 +15,12 @@ National Parks Dataset
 * **Connor Hofmann** - [GitHub Link](https://github.com/conhof27/MIST-4610-Olympic-Data/tree/main)
 * **Dean Wadud** - [GitHub Link](https://github.com/dean-wadud?tab=repositories)
 
-## Background & Context
-# What are National Parks
+# Background & Context
+## What are National Parks
 
-# How Do They Operate
+## How Do They Operate
 
-# Historical Background
+## Historical Background
 
 
 ## Project Questions
