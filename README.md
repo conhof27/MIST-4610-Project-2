@@ -1,6 +1,6 @@
 # MIST-4610-Project-2
 
-National Parks Database
+National Parks Dataset
 
 ## Team Name and Members
 
@@ -16,6 +16,11 @@ National Parks Database
 * **Dean Wadud** - [GitHub Link](https://github.com/dean-wadud?tab=repositories)
 
 ## Background & Context
+# What are National Parks
+
+# How Do They Operate
+
+# Historical Background
 
 
 ## Project Questions
