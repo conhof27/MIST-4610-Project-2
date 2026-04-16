@@ -18,6 +18,8 @@ National Parks Dataset
 # Background & Context
 ## What are National Parks
 
+National Parks are large areas of land or water that are federally protected to preserve natural beauty, unique geological features, ecosystems, and historical resources. They are open to the public for enjoyment.
+
 ## How Do They Operate
 
 ## Historical Background
