@@ -26,3 +26,7 @@ National Parks are large areas of land or water that are federally protected to 
 
 
 ## Project Questions
+### Question 1: How do visitor spending patterns and seasonal composition vary across National Park visitor segments, and what does this reveal about the economic impact of different park types?
+
+
+### Question 2: Which national parks generate the greatest economic value relative to their size and visitor volume, and does higher visitation always mean greater economic impact?
