@@ -130,3 +130,29 @@ All source data was obtained from the **National Park Service (NPS)** via [data.
 - **Together, the three parks tell three distinct stories:** a structural underperformer with no overnight base (Smoky Mountains), a boom-bust destination dependent on a single summer window (Glacier), and a year-round premium park that consistently captures high-value overnight visitors (Yosemite). These three archetypes directly set up the classification framework in Q2.
   
 ---
+
+### Q2.1 — Visitor Rank vs. Economic Efficiency (Scatter Plot)
+
+**Visualization:** Scatter plot plotting each park's visitor rank (x-axis) against its economic efficiency rank (y-axis), with parks color-coded by quadrant classification. A parity line shows where visitor rank and efficiency rank are equal — parks above the line over-deliver economically relative to their traffic; parks below under-deliver.
+
+<img width="1132" height="780" alt="Screenshot 2026-04-28 at 6 38 27 PM" src="https://github.com/user-attachments/assets/b674987e-6c43-4a9d-9964-9bbc41f7918c" />
+
+**Results:**
+- **High traffic does not equal high economic value.** Great Smoky Mountains NP (Visitor Rank #1) falls well below the parity line — despite being the most visited park in America, it ranks poorly on economic efficiency due to near-zero in-park overnight visitor share. Cuyahoga Valley NP shows the same pattern.
+- **Channel Islands NP and several remote western parks punch far above their weight.** With low visitor volumes but high proportions of overnight in-park guests, these parks generate disproportionate economic output relative to their traffic rank — placing them above the parity line in the upper-left region.
+- **Yosemite and Grand Canyon** sit near or above the parity line despite being among the top 5 most visited parks, confirming their status as `Year-Round Premium` parks that successfully convert high traffic into high-value overnight stays.
+- **Quadrant color-coding reveals structural vs. seasonal patterns at a glance.** `Structural Underperformer` parks (red) cluster below the line regardless of traffic volume, while `Destination Boom-Bust` parks (blue) show wide scatter — indicating inconsistent efficiency tied to compressed seasons.
+
+---
+
+### Q2.2 — Park × Month Heatmap (High-Value Visitor Seasonality)
+
+**Visualization:** Heatmap with parks as rows (grouped and sorted by quadrant), months as columns, and cell color representing the average high-value visitor share (LodgeIN + CampIN) for that park-month combination. Color scale runs from gold (low) to deep green (high). White cells indicate months with no recorded overnight lodge or camp visitor data.
+
+<img width="1501" height="904" alt="Screenshot 2026-04-28 at 6 39 32 PM" src="https://github.com/user-attachments/assets/1021c97e-45f9-4022-abd9-21a7fde4a869" />
+
+**Results:**
+- **Year-Round Premium parks** (top group) show consistent light-to-medium green shading across all 12 months, confirming stable overnight visitor presence regardless of season. Channel Islands NP and Great Basin NP maintain meaningful high-value share even in January and February.
+- **Destination Boom-Bust parks** reveal the most striking patterns — North Cascades, Voyageurs, Isle Royale, and the Alaska wilderness parks (Gates of the Arctic, Lake Clark, Katmai, Wrangell-St. Elias) show deep green spikes in 1–3 summer months surrounded by white or near-zero cells. Their entire economic output is compressed into a narrow window, making them highly vulnerable to weather disruptions, budget cuts, or access changes during peak season.
+- **Seasonal Day-Trip parks** (bottom group) show mild, diffuse summer bumps but never reach the deep greens seen in the Boom-Bust category — confirming that their visitor base skews toward lower-value day visitors even during peak months.
+- **Together, 2.1 and 2.2 answer the question directly:** parks that underperform economically (2.1) either lack overnight infrastructure year-round (structural) or compress all high-value activity into a few summer weeks (seasonal). The fix for each type is fundamentally different — one requires infrastructure investment, the other requires capacity extension and off-season programming.
