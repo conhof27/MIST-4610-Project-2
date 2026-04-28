@@ -105,7 +105,8 @@ All source data was obtained from the **National Park Service (NPS)** via [data.
 
 **Visualization:** Dual-axis bar chart — 100% stacked bars showing *where* money goes (by reporting group), with a secondary axis showing absolute $/pppd totals per segment.
 
-*(Insert Tableau screenshot here)*
+<img width="1506" height="245" alt="Screenshot 2026-04-28 at 3 26 58 PM" src="https://github.com/user-attachments/assets/ffe1f858-df6a-4a12-918d-bd374b161e66" />
+
 
 **Results:**
 - **In-Park Lodge Guests (`LodgeIN`)** generate the highest daily spend — lodging alone accounts for 50–60% of their daily expenditure, and their total $/pppd is **5–8× that of a Local Day Visitor**.
@@ -119,11 +120,13 @@ All source data was obtained from the **National Park Service (NPS)** via [data.
 
 **Visualization:** 100% stacked area chart by month, filterable by park. Highlights `LodgeIN` and `CampIN` (high-value) versus `NLDay`, `LocalDay`, and `Other` (lower-value) segments.
 
-*(Insert Tableau screenshot here)*
+<img width="1508" height="909" alt="Screenshot 2026-04-28 at 3 28 37 PM" src="https://github.com/user-attachments/assets/4fe1d92c-04b9-4fb7-9b82-ac020327bce8" />
+
 
 **Results:**
-- **Joshua Tree (JOTR):** Dominated by `NLDay` and `LocalDay` year-round. Near-zero in-park overnight presence in all 12 months — an inherently low-efficiency visitor mix regardless of season.
-- **Glacier (GLAC):** Sharp spike in `LodgeIN` + `CampIN` in July–August, falling to near-zero in off-months. High peak-season efficiency, but extreme concentration risk.
-- **The contrast operationalizes Q1.1:** Glacier's July visitor is worth 5–8× Joshua Tree's typical visitor in daily economic terms — despite both parks drawing large crowds.
-
+- **Great Smoky Mountains NP** — the most visited park in America — shows near-zero In-Park Lodge Guest and In-Park Camper presence across all 12 months. The stack is almost entirely gray year-round, confirming this is a structural deficit, not a seasonal one. Despite 11M+ annual visitors, virtually none are generating high-value overnight economic activity inside the park.
+- **Glacier NP** shows a dramatic and narrow spike in both In-Park Lodge Guests and In-Park Campers concentrated in months 6–9 (June–September), with essentially no high-value visitor presence outside that window. Its economic output is powerful but compressed into roughly 8 weeks — making it highly vulnerable to any disruption of peak season.
+- **Yosemite NP** is the strongest performer of the three — maintaining meaningful In-Park Lodge Guest share (dark teal) across nearly all 12 months, with In-Park Camper share (dark green) rising through the spring and summer. Its high-value visitor presence is both substantial and more evenly distributed than Glacier's.
+- **Together, the three parks tell three distinct stories:** a structural underperformer with no overnight base (Smoky Mountains), a boom-bust destination dependent on a single summer window (Glacier), and a year-round premium park that consistently captures high-value overnight visitors (Yosemite). These three archetypes directly set up the classification framework in Q2.
+  
 ---
