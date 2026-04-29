@@ -137,4 +137,8 @@ All source data was obtained from the **National Park Service (NPS)** via [data.
 
 ## Tableau Package & Workbook
 
+Attached is the twbx file containing our projects data and work.  Within this project file is two interactive dashboards that contain the visuals we used for each questions along with the 4 sheets used for the dashboards.
+
+[link]
+
 **LLM Usage Statement:** Generative AI was used in collaboration with our teams findings to not only help clean and decipher thousands of rows of data in our sources but to also refine and strengthen the explaination of our initial analysis.  
