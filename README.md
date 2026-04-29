@@ -139,6 +139,6 @@ All source data was obtained from the **National Park Service (NPS)** via [data.
 
 Attached is the twbx file containing our projects data and work.  Within this project file is two interactive dashboards that contain the visuals we used for each questions along with the 4 sheets used for the dashboards.
 
-[link]
+[Download Packaged Workbook Here](https://github.com/conhof27/MIST-4610-Project-2/blob/a16367b67ca9ca3773a97062e0f6d6297f566b91/Project2%20-%20Group%208.twbx)
 
 **LLM Usage Statement:** Generative AI was used in collaboration with our teams findings to not only help clean and decipher thousands of rows of data in our sources but to also refine and strengthen the explaination of our initial analysis.  
