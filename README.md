@@ -9,7 +9,7 @@
 
 | Name | GitHub |
 |------|--------|
-| *Connor Hofmann* | *(link)* |
+| *Connor Hofmann* | *[Project 2](https://github.com/conhof27/MIST-4610-Project-2/tree/main)* |
 | *Taylor Keller* | *(link)* |
 | *Josie Bowden* | *(link)* |
 | *Dean Wadud* | *(link)* |
