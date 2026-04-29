@@ -135,5 +135,6 @@ All source data was obtained from the **National Park Service (NPS)** via [data.
 - **Seasonal Day-Trip parks** (bottom group) show mild, diffuse summer bumps but never reach the deep greens seen in the Boom-Bust category — confirming that their visitor base skews toward lower-value day visitors even during peak months.
 - **Together, 2.1 and 2.2 answer the question directly:** parks that underperform economically (2.1) either lack overnight infrastructure year-round (structural) or compress all high-value activity into a few summer weeks (seasonal). The fix for each type is fundamentally different — one requires infrastructure investment, the other requires capacity extension and off-season programming.
 
+## Tableau Package & Workbook
 
 **LLM Usage Statement:** Generative AI was used in collaboration with our teams findings to not only help clean and decipher thousands of rows of data in our sources but to also refine and strengthen the explaination of our initial analysis.  
