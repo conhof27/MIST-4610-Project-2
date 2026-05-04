@@ -12,7 +12,7 @@
 | *Connor Hofmann* | *[Project 2](https://github.com/conhof27/MIST-4610-Project-2/tree/main)* |
 | *Taylor Keller* | *[Project 2](https://github.com/taylorkeller3)* |
 | *Josie Bowden* | *(link)* |
-| *Dean Wadud* | *(link)* |
+| *Dean Wadud* | *[Project 2]*(https://github.com/dean-wadud?tab=repositories) |
 | *Tyler Pawlowski* | *[Project 2](https://github.com/tdpaw11/MIST-4610-Project-2)* |
 
 ## Project Overview
