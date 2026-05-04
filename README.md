@@ -10,7 +10,7 @@
 | Name | GitHub |
 |------|--------|
 | *Connor Hofmann* | *[Project 2](https://github.com/conhof27/MIST-4610-Project-2/tree/main)* |
-| *Taylor Keller* | *(link)* |
+| *Taylor Keller* | *[Project 2](https://github.com/taylorkeller3)* |
 | *Josie Bowden* | *(link)* |
 | *Dean Wadud* | *(link)* |
 | *Tyler Pawlowski* | *(link)* |
