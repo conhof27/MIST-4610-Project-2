@@ -13,7 +13,7 @@
 | *Taylor Keller* | *[Project 2](https://github.com/taylorkeller3)* |
 | *Josie Bowden* | *(link)* |
 | *Dean Wadud* | *(link)* |
-| *Tyler Pawlowski* | *(link)* |
+| *Tyler Pawlowski* | *[Project 2](https://github.com/tdpaw11/MIST-4610-Project-2)* |
 
 ## Project Overview
 
